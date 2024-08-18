@@ -15,6 +15,7 @@
 		958226002C70EE8200DB334F /* swiftui_testingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958225FF2C70EE8200DB334F /* swiftui_testingUITests.swift */; };
 		958226022C70EE8200DB334F /* swiftui_testingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958226012C70EE8200DB334F /* swiftui_testingUITestsLaunchTests.swift */; };
 		958226112C70EFF600DB334F /* HeroAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958226102C70EFF600DB334F /* HeroAnimation.swift */; };
+		958226132C7284C500DB334F /* ZoomTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958226122C7284BC00DB334F /* ZoomTransitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		958225FF2C70EE8200DB334F /* swiftui_testingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_testingUITests.swift; sourceTree = "<group>"; };
 		958226012C70EE8200DB334F /* swiftui_testingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_testingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		958226102C70EFF600DB334F /* HeroAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroAnimation.swift; sourceTree = "<group>"; };
+		958226122C7284BC00DB334F /* ZoomTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomTransitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				958225E92C70EE8200DB334F /* swiftui_testing.entitlements */,
 				958225EA2C70EE8200DB334F /* Preview Content */,
 				958226102C70EFF600DB334F /* HeroAnimation.swift */,
+				958226122C7284BC00DB334F /* ZoomTransitions.swift */,
 			);
 			path = "swiftui-testing";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				958225E62C70EE8000DB334F /* ContentView.swift in Sources */,
 				958225E42C70EE8000DB334F /* swiftui_testingApp.swift in Sources */,
 				958226112C70EFF600DB334F /* HeroAnimation.swift in Sources */,
+				958226132C7284C500DB334F /* ZoomTransitions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
